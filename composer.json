@@ -1,0 +1,12 @@
+{
+    "name": "esolo/test",
+    "description": "bla-bla-bla",
+    "authors": [
+        {
+            "name": "esolo",
+            "email": "solodovnyk@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
